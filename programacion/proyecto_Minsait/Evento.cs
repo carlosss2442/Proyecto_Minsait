@@ -13,7 +13,7 @@ namespace proyecto_Minsait
         private int id;
         private string nombre;
         private DateTime fecha;
-        private TimeSpan duracion;
+        private int duracion;
         private Categoria categoria;
         private Ubicacion ubicacion;
         private Organizador organizador;
@@ -21,7 +21,7 @@ namespace proyecto_Minsait
         private List<Usuario> usuarios;
 
         // Constructor
-        public Evento(int id, string nom, DateTime fecha, TimeSpan dura, Categoria cate, Ubicacion ubi)
+        public Evento(int id, string nom, DateTime fecha, int dura, Categoria cate, Ubicacion ubi)
         {
             this.id = id;
             nombre = nom;
@@ -35,10 +35,10 @@ namespace proyecto_Minsait
 
         // Metodos 
 
-        public void RegidtrarUsuario(Usuario usu)
+        public void RegistrarUsuario(Usuario usu)
         {
             
-           if (!cancelado && usuarios.Contains(usu))
+           if (!cancelado && !usuarios.Contains(usu))
            {
                 usuarios.Add(usu);
            }
@@ -56,7 +56,25 @@ namespace proyecto_Minsait
             return usuarios;
         }
 
+        public void MostrarIntegrantes()
+        {
+            foreach (Usuario usu in usuarios)
+            {
+                Console.WriteLine(usu.Nombre);
+            }
+        }
 
+        public void cancelarParticipacion(Usuario usuario)
+        {
+            if (usuarios.Remove(usuario))
+            {
+                Console.WriteLine("Participante eliminado.");
+            }
+            else
+            {
+                Console.WriteLine("El participante no estaba registrado.");
+            }
+        }
 
     }
 }
