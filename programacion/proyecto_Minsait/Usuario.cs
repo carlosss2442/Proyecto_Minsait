@@ -13,7 +13,7 @@ namespace proyecto_Minsait
         private string nombre;
         private string email;
         private string contrasenya;
-        private List<Evento> eventos;
+        private List<Inscripcion> inscripciones;
 
 
         // Constructor 
@@ -29,33 +29,54 @@ namespace proyecto_Minsait
 
         // Propiedades y metodos
 
-        public void inscribirEvento(Evento even)
+        public void InscribirseAEvento(int id)
         {
-            eventos.Add(even);
+            Evento even = Eventos.BuscarEventoPorId(id);
+            if (even != null)
+            {
+                Inscripcion inns = new Inscripcion(even, this);
+                even.AgregarInscripcion(inns);
+                inscripciones.Add(inns);
+            }
         }
 
-        public void cancelarInscripcion(Evento e)
+        public void CancelarInscripcion(int id)
         {
-            foreach (Evento even in eventos)
+            Evento even = Eventos.BuscarEventoPorId(id);
+            if ( even != null)
             {
-                if (even == e)
+                Inscripcion insc = null;
+                foreach (Inscripcion ins in inscripciones)
                 {
-                    eventos.Remove(even);
-                    even.CancelarEvento();
-                    Console.WriteLine("Inscripcion cancelada");
+                    if (ins.Even == even)
+                    {
+                        insc = ins;
+                        break;
+                    }
+
+                }
+
+                if (insc != null)
+                {
+                    even.EliminarInscripcion(insc);
+                    inscripciones.Remove(insc);
                 } else
                 {
-                    Console.WriteLine("El usuario no esta inscrito en ese evento");
+                    Console.WriteLine("No estas inscrito en en este Evento ({0})", insc.Even);
                 }
+            }else
+            {
+                Console.WriteLine("Evento no Encontrado");
             }
-            
         }
 
-        public List<Evento> obtenerEventosInscritos()
+        public void MostrarIncriociones()
         {
-            return eventos;
+            foreach (var i  in inscripciones)
+            {
+                Console.WriteLine("Evento: {0} ", i.Even.Nombre);
+            }
         }
-        public string Nombre { get { return nombre; } set { nombre = value; } }
 
 
     }
