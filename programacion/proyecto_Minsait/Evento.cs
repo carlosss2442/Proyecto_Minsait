@@ -10,6 +10,7 @@ namespace proyecto_Minsait
     class Evento
     {
         // Atributos
+        private static int contadorId = 0;
         private int id;
         private string nombre;
         private DateTime fecha;
@@ -17,64 +18,44 @@ namespace proyecto_Minsait
         private Categoria categoria;
         private Ubicacion ubicacion;
         private Organizador organizador;
-        private bool cancelado;
-        private List<Usuario> usuarios;
+        private List<Inscripcion> inscripciones;
 
         // Constructor
-        public Evento(int id, string nom, DateTime fecha, int dura, Categoria cate, Ubicacion ubi)
+        public Evento(string nom, DateTime fecha, int dura, Categoria cate, Ubicacion ubi)
         {
-            this.id = id;
+            id = ++contadorId;
             nombre = nom;
             this.fecha = fecha;
             this.duracion = dura;
             this.categoria = cate;
             this.ubicacion = ubi;
-            usuarios = new List<Usuario>();
-            cancelado = false;
+            inscripciones = new List<Inscripcion>();
+           
         }
 
-        // Metodos 
+        // Metodos  Y propiedades
 
-        public void RegistrarUsuario(Usuario usu)
+        public void MoatrarIncripciones()
         {
             
-           if (!cancelado && !usuarios.Contains(usu))
+           foreach (var ins in inscripciones)
            {
-                usuarios.Add(usu);
+                Console.WriteLine(ins);
            }
             
         }
 
-        public void CancelarEvento()
+        public void AgregarInscripcion(Inscripcion ins)
         {
-            cancelado = true;
-            usuarios.Clear();
+            inscripciones.Add(ins);
         }
 
-        public List<Usuario> ObtenerUsuarios()
+        public void EliminarInscripcion(Inscripcion ins)
         {
-            return usuarios;
+            inscripciones.Remove(ins);
         }
-
-        public void MostrarIntegrantes()
-        {
-            foreach (Usuario usu in usuarios)
-            {
-                Console.WriteLine(usu.Nombre);
-            }
-        }
-
-        public void cancelarParticipacion(Usuario usuario)
-        {
-            if (usuarios.Remove(usuario))
-            {
-                Console.WriteLine("Participante eliminado.");
-            }
-            else
-            {
-                Console.WriteLine("El participante no estaba registrado.");
-            }
-        }
-
+        
+        public int Id { get { return id; } }
+        public string Nombre { get { return nombre; } }
     }
 }

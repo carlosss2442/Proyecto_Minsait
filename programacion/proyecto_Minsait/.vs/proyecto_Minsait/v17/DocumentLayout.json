@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\organizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|solutionrelative:organizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|c:\\users\\chent\\onedrive\\documents\\githubminsait\\proyecto_minsait\\programacion\\proyecto_minsait\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|solutionrelative:evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\ubicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|solutionrelative:ubicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|c:\\users\\chent\\onedrive\\documents\\githubminsait\\proyecto_minsait\\programacion\\proyecto_minsait\\organizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|solutionrelative:organizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|solutionrelative:categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\ubicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|solutionrelative:ubicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|c:\\users\\chent\\onedrive\\documents\\githubminsait\\proyecto_minsait\\programacion\\proyecto_minsait\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|solutionrelative:inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|c:\\users\\chent\\onedrive\\documents\\githubminsait\\proyecto_minsait\\programacion\\proyecto_minsait\\eventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3726A19C-E5E5-4C41-8EFB-7485B7374C24}|proyecto_Minsait.csproj|solutionrelative:eventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,44 +42,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "Eventos.cs",
+              "DocumentMoniker": "C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\Eventos.cs",
+              "RelativeDocumentMoniker": "Eventos.cs",
+              "ToolTip": "C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\Eventos.cs",
+              "RelativeToolTip": "Eventos.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:47:31.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\Inscripcion.cs",
+              "RelativeDocumentMoniker": "Inscripcion.cs",
+              "ToolTip": "C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\Inscripcion.cs",
+              "RelativeToolTip": "Inscripcion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:50:10.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\Categoria.cs",
               "RelativeDocumentMoniker": "Categoria.cs",
               "ToolTip": "C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\Categoria.cs",
               "RelativeToolTip": "Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T09:30:18.839Z"
+              "WhenOpened": "2025-05-19T09:30:18.839Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Organizador.cs",
               "DocumentMoniker": "C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\Organizador.cs",
               "RelativeDocumentMoniker": "Organizador.cs",
               "ToolTip": "C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\Organizador.cs",
               "RelativeToolTip": "Organizador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwB0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T09:30:05.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Ubicacion.cs",
               "DocumentMoniker": "C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\Ubicacion.cs",
               "RelativeDocumentMoniker": "Ubicacion.cs",
               "ToolTip": "C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\Ubicacion.cs",
               "RelativeToolTip": "Ubicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T09:29:52.526Z"
+              "WhenOpened": "2025-05-19T09:29:52.526Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -81,7 +117,7 @@
               "RelativeDocumentMoniker": "Evento.cs",
               "ToolTip": "C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\Evento.cs",
               "RelativeToolTip": "Evento.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAYwEQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwDoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T08:56:54.257Z",
               "EditorCaption": ""
@@ -94,14 +130,14 @@
               "RelativeDocumentMoniker": "Usuario.cs",
               "ToolTip": "C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\Usuario.cs",
               "RelativeToolTip": "Usuario.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwDcAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwEwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T08:50:34.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\chent\\OneDrive\\Documents\\GithubMinsait\\Proyecto_Minsait\\programacion\\proyecto_Minsait\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -109,7 +145,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T08:32:00.055Z"
+              "WhenOpened": "2025-05-19T08:32:00.055Z",
+              "EditorCaption": ""
             }
           ]
         }
