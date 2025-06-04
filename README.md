@@ -1,10 +1,15 @@
 # Proyecto_Minsait
 
-html_ldm
+Aqui se encuentra todo mi proyecto de la formacion en empresa Minsait. Este incluye todo lo que hemos aprendido durante el curso
 
-Aqui se encuentra todo mi proyecto de la formacion en empresa Minsait. 
+. Bases de Datos: Creacion de tablas y Entidad relacion.
 
-Apartado de Lenguajes de Marcas.
+. Programacion: Creacion de programa con sus clases metodos y propiedades necesarias.
 
-En esta rama estan todas las paginas necesarias para la web con su codigo, estilos e imagenes.
+. Lenguaje de Marcas (web_html): Creacion de la pagina web sobre eventos ecologicos y/o sostenibles, con listas, carrusel de imaganes, tablas, y enlaces.
 
+. Sistemas Informaticos: Documento donde explico como instalar windows 10 y un servidor web.
+
+. Entornos de desarrollo: Uso de git para las ramas y creacion del proyecto. 
+
+correo: catesa@alumnatflorida.es
