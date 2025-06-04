@@ -1,7 +1,10 @@
 # Proyecto_Minsait
-Base_de_datos
+
+html_ldm
+
 Aqui se encuentra todo mi proyecto de la formacion en empresa Minsait. 
 
-Podemos encontrar la parte de BASES DE DATOS. 
+Apartado de Lenguajes de Marcas.
 
+En esta rama estan todas las paginas necesarias para la web con su codigo, estilos e imagenes.
 
